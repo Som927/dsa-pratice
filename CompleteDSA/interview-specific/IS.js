@@ -3,7 +3,7 @@ class ISV1 {
 
   string_sets = {
     // reverse a string --------------------------------- c
-    1: (s = "deepak") => {
+    1: (s = 'deepak') => {
       let n = s.length;
       let i = n - 1;
       let reversedstr = "";
@@ -347,6 +347,14 @@ class ISV1 {
 
   queue_dsa = {
     // testing changes
+  }
+
+  tree_dsa= {
+    // 94: binary tree Inorder traversal
+    94:() =>{
+
+    }
+
   }
   
 
